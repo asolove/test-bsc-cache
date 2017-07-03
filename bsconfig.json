@@ -1,0 +1,10 @@
+{
+  "name": "test-bsc-ocaml-cache",
+  "version": "0.1.0",
+  "sources": [
+    "src"
+  ],
+  "bs-dependencies" : [
+      // add your bs-dependencies here 
+  ]
+}
